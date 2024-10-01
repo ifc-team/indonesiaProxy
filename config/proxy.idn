@@ -1,0 +1,28 @@
+name-applicaion: Proxy-Indonesia
+    version: 17.08.1945
+    github: https://github.com/ifc-team/indonesiaProxy
+    author: ifc-team
+    developer: m4y1t_xXx
+    social-media:
+        fb: ifc-team
+        ig: ifc-team
+        tk: ifc-team
+    contact:
+        web: https://ifc-team.com
+        email: management@qorri-di.com
+
+configuration:
+    weblist:
+        status: true
+        config: config/weblist.idn
+    save:
+        valid: result/valid-proxy.txt
+        http: result/http-proxy.txt
+        https: result/https-proxy.txt
+        socks4: result/socks4-proxy.txt
+        socks5: result/socks5-proxy.txt
+    timeout: 10
+    checker:
+        scroll: true
+        click: true
+        web: https://qorri-di.com
