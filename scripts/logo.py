@@ -3,11 +3,13 @@ import os
 
 from colorama import Fore
 
+
 def clear():
     if os.name == 'nt':
         os.system('cls')
     else:
         os.system('clear')
+
 
 def pattern():
     colorama.init(autoreset=True)
@@ -20,6 +22,7 @@ def pattern():
     .:: Dev : @qorri-di ::. /_/  .:: ver : 0.0.1-Beta ::.                     
     """
     print(Fore.WHITE + log)
+
 
 def logo():
     clear()
