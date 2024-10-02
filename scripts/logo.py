@@ -30,7 +30,7 @@ def pattern():
     print(Fore.WHITE + log)
     print(bcolors.OKGREEN + '+------------------------------------------------------------+')
     print(bcolors.WARNING + '|           .:.: Dev: https://qorrri-di.com :.:.             |')
-    print(bcolors.WARNING + '|           .:.: Ver:                                        |' )
+    print(bcolors.WARNING + '|           .:.: Ver:                                        |')
     print(bcolors.OKGREEN + '+------------------------------------------------------------+')
 
 
