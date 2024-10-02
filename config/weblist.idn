@@ -1,0 +1,7 @@
+website-list:
+    sslproxies: https://www.sslproxies.org
+    free-proxy-list: https://free-proxy-list.net
+    us-proxy: https://www.us-proxy.org
+    proxy-list: https://www.proxy-list.download
+        page: /HTTP, /HTTPS, /SOCKS4, /SOCKS5
+    other:
