@@ -1,4 +1,7 @@
-import random, colorama, os
+import colorama
+import os
+import random
+
 from colorama import Fore
 
 
